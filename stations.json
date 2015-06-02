@@ -14,7 +14,7 @@
 		"compulsory": false,
 		"location": "Bridge between S16-S17",
 		"task": "Take a \"totem pole\" photo of at least 6 people from your house, standing in a line with their heads stacked up.",
-		"password": "s2",
+		"password": "soc1",
 		"letters": ["S", "T", "U"]
 		},
 		
@@ -23,26 +23,26 @@
 		"compulsory": false,
 		"location": "S16-04-39",
 		"task": "",
-		"password": "s3",
-		"letters": ["A", "B"]
+		"password": "science_dean's_office",
+		"letters": ["M", "P", "W"]
 	},
 
 	"s4": {
 		"index": 4,
 		"compulsory": false,
 		"location": "LT34",
-		"task": "",
-		"password": "s4",
-		"letters": ["A", "B"]
+		"task": "We asked our USP friends, 'Why is USP so _______?' Guess the top 5 most common answers.",
+		"password": "65161515",
+		"letters": ["C", "E", "G"]
 	},
 
 	"s5": {
 		"index": 5,
 		"compulsory": false,
 		"location": "Tahir Foundation Building",
-		"task": "Roll a ping pong ball down the slope into a plastic cup.",
-		"password": "s5",
-		"letters": ["A", "B"]
+		"task": "Roll a ping pong ball from the top of the slope into a plastic cup at the bottom.",
+		"password": "legal_reform",
+		"letters": ["A", "I", "N"]
 	},
 
 	"s6": {
@@ -50,25 +50,25 @@
 		"compulsory": false,
 		"location": "University Hall",
 		"task": "Your NOGL will give you a list of numbered objects to memorise in 1 minute. One house member at a time, recite the objects in ascending order.",
-		"password": "s6",
-		"letters": ["A", "B"]
+		"password": "ceramicist",
+		"letters": ["B", "L", "R"]
 	},
 
 	"s7":{
 		"index": 7,
 		"compulsory": true,
-		"location": "Track grandstands",
+		"location": "SRC Grandstand/Track",
 		"task": "Inter-house dodgeball!",
-		"password": "s7",
-		"letters": ["A", "B"]
+		"password": "track",
+		"letters": ["E", "I", "O"]
 	},
 
 	"s8":{
 		"index": 8,
 		"compulsory": false,
-		"location": "",
-		"task": "",
-		"password": "s8",
+		"location": "sRC Basketball Court",
+		"task": "Throw a ping-pong ball into the hoop from the 3-point line.",
+		"password": "red_blinking_beacon",
 		"letters": ["A", "B"]
 	},
 
@@ -77,15 +77,15 @@
 		"compulsory": false,
 		"location": "MPSH",
 		"task": "Read out NUS exam rules backwards.",
-		"password": "s9",
-		"letters": ["A", "B"]
+		"password": "ball_games",
+		"letters": ["A", "E", "I"]
 	},
 
 	"s10":{
 		"index": 10,
 		"compulsory": false,
-		"location": "",
-		"task": "",
+		"location": "YIH",
+		"task": "Juggle a ping-pong ball without using your arms/hands at least 4 times.",
 		"password": "s10",
 		"letters": ["A", "B"]
 	},
@@ -93,117 +93,108 @@
 	"s11":{
 		"index": 11,
 		"compulsory": false,
-		"location": "",
-		"task": "",
-		"password": "s11",
-		"letters": ["A", "B"]
+		"location": "SDE Xpressions Corner",
+		"task": "Using aluminium foil, make one of your housemates look like a robot. He/she will have to remain in costume until you reach CLB.",
+		"password": "xpressions",
+		"letters": ["G", "N", "R"]
 	},
 
 	"s12":{
 		"index": 12,
 		"compulsory": false,
-		"location": "",
-		"task": "",
-		"password": "s12",
-		"letters": ["A", "B"]
+		"location": "LT1",
+		"task": "Find E2-B-02, E1A-04-03, EA-07-04, and E3-06-07.",
+		"password": "alarm_box",
+		"letters": ["C", "H", "K"]
 	},
 
 	"s13":{
 		"index": 13,
 		"compulsory": false,
-		"location": "",
+		"location": "LT1",
 		"task": "Find these 4 locations: E2-B-02, E1A-03-03 (EDIC), EA-07-04, E3-06-07.",
 		"password": "s13",
-		"letters": ["A", "B"]
+		"letters": ["D", "O", "T"]
 	},
 
 	"s14":{
 		"index": 14,
-		"compulsory": false,
-		"location": "",
-		"task": "",
-		"password": "s14",
-		"letters": ["A", "B"]
-	},
-
-	"s15":{
-		"index": 15,
 		"compulsory":  false,
 		"location": "Engin McDonalds",
 		"task": "Buy ice cream!",
 		"password": "s15",
-		"letters": ["A", "B"]
+		"letters": ["F", "I", "S"]
+	},
+
+	"s15":{
+		"index": 15,
+		"compulsory": true,
+		"location": "CLB Garden",
+		"task": "Choose two housemates to sit around the picnic table and build a lego structure blindfolded with instructions from their housemates who can see the model structure.",
+		"password": "s16",
+		"letters": ["A", "E", "U"]
 	},
 
 	"s16":{
 		"index": 16,
-		"compulsory": true,
-		"location": "CLB Garden",
-		"task": "Choose four housemates to sit around the picnic table and build a lego structure blindfolded with instructions from their housemates who can see the model structure",
-		"password": "s16",
-		"letters": ["A", "B"]
+		"compulsory": false,
+		"location": "AS1-03-04",
+		"task": "One at a time, housemates must listen to a different song through earphones while trying to hum a song given to them by your NOGL while the rest guess what song it is. 5 correct guesses are needed to pass.",
+		"password": "s17",
+		"letters": ["F", "H", "Y"]
 	},
 
 	"s17":{
 		"index": 17,
 		"compulsory": false,
-		"location": "AS1-03-04",
-		"task": "Spot the Difference: ask your NOGL to proceed.",
-		"password": "s17",
-		"letters": ["A", "B"]
+		"location": "The Deck",
+		"task": "Using 3 cups and a ping-pong ball, shuffle the ball underneath one of the cups until your NOGL cannot guess where it is.",
+		"password": "deck",
+		"letters": ["D", "I", "L"]
 	},
 
 	"s18":{
 		"index": 18,
 		"compulsory": false,
-		"location": "The Deck",
-		"task": "",
-		"password": "s18",
-		"letters": ["A", "B"]
+		"location": "Fragrant Plant Garden",
+		"task": "Play charades! Look at your NOGL for more information.",
+		"password": "s19",
+		"letters": ["G", "M", "S"]
 	},
 
 	"s19":{
 		"index": 19,
 		"compulsory": false,
-		"location": "Fragrant Plant Garden",
-		"task": "Play charades! Look meaningfully at your NOGL for more information.",
-		"password": "s19",
-		"letters": ["A", "B"]
+		"location": "",
+		"task": "Party Quirks: 3 of your housemates must pretend to be invited party guests, playing a certain role (given by your NOGL). Guess what role they are playing to proceed.",
+		"password": "s20",
+		"letters": ["E", "F", "N"]
 	},
 
 	"s20":{
 		"index": 20,
 		"compulsory": false,
-		"location": "",
-		"task": "Party Quirks: 3 of your housemates must pretend to be invited party guests, playing a certain role (given by your NOGL). Guess what role they are playing to proceed.",
-		"password": "s20",
-		"letters": ["A", "B"]
+		"location": "COM1 Level 2",
+		"task": "Do the BubbleSort dance (https://youtu.be/lyZQPjUT5B4), sorting 10 members of the house by their birthday in ascending order.",
+		"password": "s21",
+		"letters": ["T", "W", "Z"]
 	},
 
 	"s21":{
 		"index": 21,
 		"compulsory": false,
-		"location": "COM1 Level 2",
-		"task": "Do the BubbleSort dance, sorting 10 members of the house by their birthday in ascending order.",
-		"password": "s21",
-		"letters": ["A", "B"]
+		"location": "Mochtar Riady Building",
+		"task": "Take a photo of your entire house, with a (more or less) equal number of house members on each floor.",
+		"password": "s22",
+		"letters": ["C", "H", "R"]
 	},
 
 	"s22":{
 		"index": 22,
-		"compulsory": false,
-		"location": "Mochtar Riady Building",
-		"task": "Take a photo of your entire house, with a (more or less) equal number of house members on each floor.",
-		"password": "s22",
-		"letters": ["A", "B"]
-	},
-
-	"s23":{
-		"index": 23,
 		"compulsory": true,
 		"location": "Kent Ridge Bus Terminal",
 		"task": "",
-		"password": "s23",
-		"letters": ["A", "B"]
+		"password": "krbt",
+		"letters": []
 	}
 }
