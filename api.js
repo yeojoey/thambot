@@ -66,13 +66,13 @@ function processRegisterRequest(input, phone) {
     if (cmd.length < 6) {
         return "You messed up. Try again";
     }
-    return admin.addOGL(phone, cmd[2], cmd[3], cmd[4], cmd[5]);
+    return admin.addOGL(phone, cmd[2].trim(), cmd[3].trim(), cmd[4].trim(), cmd[5].trim());
 }
 
 function responseType(input) {
     if (input[0] != '/') {
         //log error message
-        return errorMessage_syntax;
+        return 'image';
     }
     var cmd = input.substr(1).split(' ');
     switch (cmd[0]) {
@@ -88,7 +88,7 @@ function parseCmd(input, phone, msgObj, callback) {
             return "Hello, " +  auth.getFirstName(phone) + "!";
         }
         //log error message
-        return errorMessage_syntax;
+        return './confusedtham.jpg';
     }
     var cmd = input.substr(1).split(' ');
 
